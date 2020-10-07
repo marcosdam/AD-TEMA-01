@@ -1,0 +1,6 @@
+cargo 5
+abono 5
+cargo 20
+cargo 30
+cargo 50
+abono 20

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<empresa>
+    <empleado id="1">
+        <nombre>Pepito Gimeno</nombre>
+        <username>pepegimeno</username>
+        <password>1234</password>
+    </empleado>
+    <empleado id="2">
+        <nombre>Daniel Perez</nombre>
+        <username>danielperez</username>
+        <password>4321</password>
+    </empleado>
+</empresa>
